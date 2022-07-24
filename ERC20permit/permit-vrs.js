@@ -90,7 +90,7 @@ const data = getPermitDigest(
 console.log("hashed-data",data)
 
 const ownerPrivateKey = Buffer.from(
-  'bd7788fda028477621f4a51b8ee5d8795c58084b6d4e1b1662857fc5a51d8e55',
+  '----------prtivate-key----------------',
   'hex',
 )
 
