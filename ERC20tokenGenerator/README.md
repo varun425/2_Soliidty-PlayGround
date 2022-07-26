@@ -1,1 +1,1 @@
-![erc20generator](https://user-images.githubusercontent.com/52693350/180370391-9cbbfd34-92b7-47b6-aebb-d1920dec05eb.svg)
+![tokengen2](https://user-images.githubusercontent.com/52693350/180938764-86cdf9e4-dd9d-4f2b-9b8a-510fe5844aa3.svg)
