@@ -28,7 +28,7 @@ const createSignature = (params) => {
     )
     .toString('hex')
   const privKey =
-    '0x77acff30743fe6db7e5cdbd00f9961939937ed7b40b33abfe3197b0435a4ba13'
+    '----------private-key-----------'
   const signature = web3.eth.accounts.sign(message, privKey)
   console.log(signature)
   return { signature }
